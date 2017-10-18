@@ -1,0 +1,27 @@
+{
+  "name": "todolistapi",
+  "version": "1.0.0",
+  "description": "RESTful TODOlist",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error!\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gioserden/BankOCR.git"
+  },
+  "keywords": [
+    "todo"
+  ],
+  "author": "Sergio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gioserden/BankOCR/issues"
+  },
+  "homepage": "https://github.com/Gioserden/BankOCR#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "nodemon": "^1.12.1",
+    "save-dev": "^2.0.0"
+  }
+}
